@@ -1,0 +1,205 @@
+*{
+
+    margin-top: 0;
+    margin-left: 0;
+}
+.outer{
+    height: 600px;
+    width:1070px;
+    /* border: 2px solid; */
+}
+#left{
+    height:600px;
+    width:200px;
+    /* border:1px solid; */
+    float: left;
+    margin-left: 10px;
+    /* position: relative; */
+}
+#right{
+    height:600px;
+    width: 850px;
+    /* border: 1px solid; */
+    float: right;
+}
+#tripleLine{
+    height: 15px;
+    width: 20px;;
+    font-size: 35px;
+    float: left;
+}
+#yicon{
+    height:50px;
+    width: 170px;
+    float: right;
+}
+#ylogo{
+    height: 50px;
+    width:200px;
+    /* border: 1px solid; */
+}
+#ylogo img{
+    height: 30px;
+    width: 30px;
+    /* margin-left:   px; */
+    margin-top:6px;
+}
+#ylogo #sp1{
+    font-size: 29px;
+}
+#ylogo #sp1 sup{
+    font-size: 10px;
+}
+#left ul img{
+    height: 15px;
+    width:15px;
+    margin-left:px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.navbar{
+    height:600px;
+    width: 200px;
+    position: relative;
+    left: -40px;
+    /* top: px; */
+    /* border: 2px solid; */
+}
+#left ul #home{
+    height: 20px;
+    width:20px;
+}
+#left ul #sp {
+    /* margin-left: 50px; */
+}
+#left ul{
+    list-style-type:none ;
+}
+#left ul li{
+}
+#left ul .nav{
+    height: 40px;
+    width:200px;
+    /* border: 1px solid; */
+    /* padding-right:30px; */
+}
+#left hr{
+    width: 200px;
+}
+.head{
+    height: 100px;
+    width:850px;
+    border: 1px solid white;
+}
+#sdiv{
+    margin-top:10px;
+    margin-left: 30px;
+    height: 40px;
+    width: 450px;
+    border:0.5px solid gray;
+    position: relative;
+    border-radius: 40px 40px 40px 40px;  
+    float: left;  
+}
+#sicon{
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    right: 15px;
+    top: 8px;
+    cursor: pointer;
+    /* border: 1px solid; */
+
+}
+#divicon{
+    position: absolute;
+    height: 40px;
+    width:60px;
+    border: 1px solid gray;
+    left: 390px;
+    top:-1px;
+    border-radius: 0px 40px 40px 0px;
+}
+#sbox{
+    width: 384px;
+    height: 38px;
+    margin-top:px;
+    border-radius: 40px 0px 0px 40px;
+    border:none;
+}
+#mic{
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}
+#micdiv{
+    height: 40px;
+    width: 40px;
+    /* border: 1px solid; */
+    margin-left: 480px;
+    margin-top: -40px;
+    border-radius: 20px;
+    background-color: lightgray;
+}
+.profilediv{
+    height: 40px;
+    width: 200px;
+    border: 1px solid white;
+    position: relative;
+    margin-left: 630px;
+    margin-top: 10px;
+
+}
+#cvideo{
+    height:20px;
+    width: 20px;
+    margin-left: 60px;
+    margin-top: 8px;
+    /* position: absolute; */
+    float:left;
+}
+#bell{
+    height: 20px;
+    width: 20px;
+    margin-left: 30px;
+    margin-top: 8px;
+    float:left;
+}
+#profile{
+    height: 35px;
+    width: 35px;
+    margin-left: 30px;
+    float:left;
+    border-radius: 20px;
+}
+
+.button{
+    border: none;
+    margin: 5px;
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 25px;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+}
+.videorow{
+    height: 220px;
+    width: 850px;
+    margin-top: 20px;
+    /* border: 1px solid; */
+}
+.video{
+    height: 220px;
+    width: 270px;
+    /* border: 1px solid; */
+    float: left;
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+

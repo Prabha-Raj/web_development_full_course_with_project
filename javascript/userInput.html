@@ -1,0 +1,23 @@
+<html>
+<head>
+<script>
+function sum(){
+alert("in");
+var a=document.getElementById("f").value;
+var b=document.getElementById("s").value;
+var sum = a+b;
+window.alert(sum);
+var sum = parseInt(a)+parseInt(b);
+window.alert(sum);
+}
+</script>
+</head>
+<body>
+Enter First No. 
+<input type="text" id="f"/>
+<br/>
+Enter Second No. <input type="text" id="s" />
+<br/>
+<input type="button" value="SUM" onclick="sum()"/>
+</body>
+</html>

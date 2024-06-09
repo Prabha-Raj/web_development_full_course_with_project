@@ -1,0 +1,25 @@
+.circle1{
+    height: 160px;
+    width: 160px;
+    border: 10px solid blue;
+    border-radius: 50%;
+    position: relative;
+}
+.circle2{
+    height: 0px;
+    width: 0px;
+    border:15px solid blue;
+    border-radius: 50%;
+    position: absolute;
+    top: 65px;
+    left: 65px;
+}
+.t1{
+    height: 62px;
+    width: 1px;
+    border: 3px solid blue;
+    border-radius: 50%;
+    position: absolute;
+    left: 75px;
+    
+}

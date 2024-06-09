@@ -1,0 +1,580 @@
+#main {
+    height: 805px;
+    width: 805px;
+    border: 15px solid black;
+    margin: 0 auto;
+}
+
+#outer {
+    height: 800px;
+    width: 800px;
+    border: 5px solid black;
+}
+
+#a {
+    height: 100px;
+    width: 800px;
+}
+
+#a1 {
+    height: 100px;
+    width: 100px;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+    float: left;
+}
+
+#a2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+}
+
+#a3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+}
+
+#a4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+}
+
+#a5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+}
+
+#a6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+}
+
+#a7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+}
+
+#a8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+    font-size: 80px;
+    color: white;
+}
+
+#b {
+    height: 100px;
+    width: 800px;
+}
+
+#b1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#b2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#b3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#b4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#b5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#b6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#b7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#b8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#c {
+    height: 100px;
+    width: 800px;
+}
+
+#c1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#c2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#c3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#c4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#c5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#c6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#c7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#c8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#d {
+    height: 100px;
+    width: 1000px;
+}
+
+#d1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#d2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#d3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#d4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#d5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#d6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#d7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#d8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#e {
+    height: 100px;
+    width: 1000px;
+}
+
+#e1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#e2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#e3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#e4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#e5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#e6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#e7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#e8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#f {
+    height: 100px;
+    width: 1000px;
+}
+
+#f1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#f2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#f3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#f4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#f5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#f6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#f7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+}
+
+#f8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+}
+
+#g {
+    height: 100px;
+    width: 1000px;
+}
+
+#g1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#g2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#g3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#g4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#g5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#g6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#g7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#g8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#h {
+    height: 100px;
+    width: 800px;
+}
+
+#h1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#h2 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 85px;
+    color: white;
+}
+
+#h3 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#h4 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#h5 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#h6 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
+
+#h7 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#h8 {
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: wheat;
+    font-size: 80px;
+    color: white;
+}
